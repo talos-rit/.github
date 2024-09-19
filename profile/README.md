@@ -10,8 +10,8 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 | Brooke Leinberger | Embedded lead          |
 | Devan Kavalchek   | Web presence manager   |
 | John Flory        | AI/ML lead             |
-| Noah Carney       | Developer              |
-| Nolan Porter      | Developer              |
+| Noah Carney       | Networking lead              |
+| Nolan Porter      | Diagram/Documentation lead              |
 
 **Coach**: Samuel Malachowsky
 
@@ -19,6 +19,9 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 
 RIT Software Engineering Department
 
+## Descriptive Keywords
+Computer vision,embedded,robotics,open source,camera
+
 ## Synopsys
 
-Todo
+This research project aims to repurpose an existing robotic arm, the ScorBot ER-4, which has historically been used for education, into a robotic autonomous cameraperson. 
