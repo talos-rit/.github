@@ -9,7 +9,7 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 | J Russ       | Hardware Lead |
 | Ryan Yocum |  Communications Manager |
 | Kai Frazier   | Commander Lead |
-| Connor O'Neill | Driver |
+| Connor O'Neill | Driver Developer |
 | Hiro Takeuchi | Architect |
 
 **Coach**: Larry Kizer
