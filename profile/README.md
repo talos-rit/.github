@@ -6,14 +6,13 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 
 | Name              | Role                   |
 | ----------------- | ---------------------- |
-| Alex Vernes       | Communications manager |
-| Brooke Leinberger | Embedded lead          |
-| Devan Kavalchek   | Web presence manager   |
-| John Flory        | AI/ML lead             |
-| Noah Carney       | Software Networking lead              |
-| Nolan Porter      | Diagram/Documentation lead              |
+| J Russ       | Hardware Lead |
+| Ryan Yocum |  Communications Manager |
+| Kai Frazier   | Commander Lead |
+| Connor O'Neill | Driver |
+| Hiro Takeuchi | Architect |
 
-**Coach**: Samuel Malachowsky
+**Coach**: Larry Kizer
 
 ### Sponsoring Organization
 
