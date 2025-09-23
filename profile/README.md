@@ -23,8 +23,4 @@ Computer vision,embedded,robotics,open source,camera
 
 ## Synopsys
 
-This research project seeks to repurpose the ScorBot ER-4, an educational robotic arm, into an autonomous robotic cameraperson. While basic videography techniques are well understood, capturing high-quality footage in dynamic environments like classrooms or live presentations requires constant operator attention. The project's goal is to automate camera operations—such as panning, tilting, zooming, and framing subjects—to create more engaging recordings.
-
-This project includes the ideation, research, and development of software that integrates machine learning, computer vision, and other technologies to guide camera movements. Secondary objectives include multi-cameras for A and B-Roll, multi-subject tracking, and live or post-processed video footage. The system’s scope and features will evolve as the capabilities of the software and hardware become clearer. 
-
-A core goal of the project is to extend the life of outdated technology by combining modern cameras with older robotics arms for new applications. 
+This reaserch project aims to continue the goals of the current Talos project. Keeping the goals of re-purposing old hardware, we aim to get the 2 robots working in parallel to enhance the autonomous cameraperson. The scope of this project team is to expand the tracking functionality to improve subject framing, as well to combine the 2nd robot (ER-4Pc) with a custom driver controller. The end goal of this project is to have 2 robots, the ER-V and the ER-4pc both work in conjunction with each other and track a subject, as well as adding portability to the software to allow this project to be used beyond this research.
