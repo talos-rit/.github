@@ -12,6 +12,10 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 | Connor O'Neill | Driver Developer |
 | Hiro Takeuchi | Architect |
 
+**Meeting Notes**: [Link](https://github.com/talos-rit/project_documentation/tree/master/pm-2025)
+
+**4-UPs**: [Link](https://github.com/talos-rit/project_documentation/tree/master/pm/4-ups/2025)
+
 **Coach**: Larry Kizer
 
 ### Sponsoring Organization
