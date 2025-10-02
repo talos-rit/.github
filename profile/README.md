@@ -25,6 +25,8 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 
 **Project Final Plan**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/project_final_plan.md)
 
+**Time Tracking Sheet**: [Link](https://docs.google.com/spreadsheets/d/172h4xnK9mEc-XvlIE1YFaV448X0j20QTpCbVRkZ1uJs/edit?usp=sharing)
+
 
 ### Sponsoring Organization
 
