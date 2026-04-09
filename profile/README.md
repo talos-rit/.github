@@ -1,5 +1,6 @@
 # Talos
 Repurposing Old Hardware - Robotic Autonomous Cameraperson
+
 If this is your first time here, and would like to help contribute please see our [On-boarding Guide](https://github.com/talos-rit/project_documentation/blob/master/onboarding.md). It explains the basis of the project, where it started, where it is now, and where to continue.
 
 ## Team
