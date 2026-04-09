@@ -15,7 +15,7 @@ Repurposing Old Hardware - Robotic Autonomous Cameraperson
 **Coach**: Larry Kizer
 
 ## Resources
-**Agenda & Meeting Notes & 4-UP**: [Link](https://github.com/talos-rit/project_documentation/tree/master/pm-2025)
+**Agenda & Meeting Notes & 4-UP**: [Link](https://github.com/talos-rit/project_documentation/tree/master/pm)
 
 **Project Methodology**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/project_methodology_plan.md)
 
