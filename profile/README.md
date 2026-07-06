@@ -9,8 +9,8 @@ If this is your first time here, and would like to help contribute please see ou
 | -------------- | ---------------------- |
 | J Russ         | Hardware Lead          |
 | Ryan Yocum     | Communications Manager |
-| Kai Frazier    | Commander Lead         |
-| Connor O'Neill | Driver Developer       |
+| Kai Frazier    | Driver Developer       |
+| Connor O'Neill | Test Engineer          |
 | Hiro Takeuchi  | Architect              |
 
 **Coach**: Larry Kiser
