@@ -5,28 +5,27 @@ If this is your first time here, and would like to help contribute please see ou
 
 ## Team
 
-| Name           | Role                   |
-| -------------- | ---------------------- |
-| J Russ         | Hardware Lead          |
-| Ryan Yocum     | Communications Manager |
-| Kai Frazier    | Driver Developer       |
-| Connor O'Neill | Test Engineer          |
-| Hiro Takeuchi  | Architect              |
+| Name              | Role                      |
+| ----------------- | ------------------------- |
+| Aleck Hernandez   | Hardware Lead             |
+| Bevan Neiberg     | AI / Computer Vision Lead |
+| Briggs Tucker     | Communications Lead       |
+| Christine Morgado | Scrum Master              |
+| Jacob Odle        | Controls Lead             |
+| Zoe Rizzo         | Scribe                    |
 
-**Coach**: Larry Kiser
+**Coach**: Samuel Malachowsky
 
 ## Resources
-**Agenda & Meeting Notes & 4-UP**: [Link](https://github.com/talos-rit/project_documentation/tree/master/pm)
+**Project Methodology**: [Link](https://github.com/talos-rit/project_documentation/blob/master/artifacts/2026/project_methodology_plan.md)
 
-**Project Methodology**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/project_methodology_plan.md)
-
-**Project Metrics**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/Process%20%26%20Project%20Metrics.md)
+**Project Metrics**: [Link](https://github.com/talos-rit/project_documentation/blob/master/artifacts/2026/process_project_metrics.md)
 
 **Project Final Plan**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/project_final_plan.md)
 
 **Domain Model**: [Link](https://github.com/talos-rit/project_documentation/blob/master/technical/domain_model/2025_Domain_Model.drawio.png)
 
-**Time Tracking Sheet**: [Link](https://docs.google.com/spreadsheets/d/172h4xnK9mEc-XvlIE1YFaV448X0j20QTpCbVRkZ1uJs/edit?usp=sharing)
+**Agendas, Meeting Notes & 4-Ups**: [Link](https://github.com/talos-rit/project_documentation/tree/master/meetings)
 
 
 ### Sponsoring Organization
