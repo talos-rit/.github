@@ -1,7 +1,10 @@
 # Talos
+
+<img width="1152" height="384" alt="Talos_Logo_384" src="https://github.com/user-attachments/assets/e322d03f-71bc-4087-94f3-7d12e032830f" />
+
 Repurposing Old Hardware - Robotic Autonomous Cameraperson
 
-If this is your first time here, and would like to help contribute please see our [On-boarding Guide](https://github.com/talos-rit/project_documentation/blob/master/onboarding.md). It explains the basis of the project, where it started, where it is now, and where to continue.
+If this is your first time here, and would like to help contribute please see our [Onboarding Guide](https://github.com/talos-rit/project_documentation/blob/master/onboarding.md). It explains the basis of the project, where it started, where it is now, and where to continue.
 
 ## Team
 
@@ -9,7 +12,7 @@ If this is your first time here, and would like to help contribute please see ou
 | ----------------- | ------------------------- |
 | Aleck Hernandez   | Hardware Lead             |
 | Bevan Neiberg     | AI / Computer Vision Lead |
-| Briggs Tucker     | Communications Lead       |
+| Briggs Tucker     | Communications & UI Lead  |
 | Christine Morgado | Scrum Master              |
 | Jacob Odle        | Controls Lead             |
 | Zoe Rizzo         | Scribe                    |
@@ -21,11 +24,11 @@ If this is your first time here, and would like to help contribute please see ou
 
 **Project Metrics**: [Link](https://github.com/talos-rit/project_documentation/blob/master/artifacts/2026/process_project_metrics.md)
 
-**Project Final Plan**: [Link](https://github.com/talos-rit/project_documentation/blob/master/pm-2025/project_final_plan.md)
+**Project Final Plan**: [Link](https://github.com/talos-rit/project_documentation/blob/master/artifacts/2026/project_final_plan.md)
 
-**Domain Model**: [Link](https://github.com/talos-rit/project_documentation/blob/master/technical/domain_model/2025_Domain_Model.drawio.png)
+**Domain Model**: [Link](https://github.com/talos-rit/project_documentation/blob/master/artifacts/2026/Domain%20Model.drawio.png)
 
-**Agendas, Meeting Notes & 4-Ups**: [Link](https://github.com/talos-rit/project_documentation/tree/master/meetings)
+**Agendas, Meeting Notes & 4-Ups**: [Link](https://github.com/talos-rit/project_documentation/tree/master/meetings/2026)
 
 
 ### Sponsoring Organization
@@ -33,8 +36,8 @@ If this is your first time here, and would like to help contribute please see ou
 RIT Software Engineering Department
 
 ## Descriptive Keywords
-Computer vision,embedded,robotics,open source,camera
+Robotics, Computer Vision, Embedded Software, Raspberry Pi, Open Source, ESP32
 
 ## Synopsis
 
-This research project aims to continue the goals of the current Talos-RIT project. Keeping the goals of re-purposing old hardware, we aim to get the 2 robots working in parallel to enhance the autonomous cameraperson. The scope of this project team is to expand the tracking functionality to improve subject framing, as well to combine the 2nd robot (ER-4pc) with a custom driver controller. The end goal of this project is to have 2 robots, the ER-V and the ER-4pc both work in conjunction with each other and track a subject, as well as adding portability to the software to allow this project to be used beyond this research.
+This research project repurposes legacy robotic hardware, the ScorBot ER-4pc and ER-V, into an autonomous camera platform. The project's goal is to automate camera operations which typically require a person: panning, tilting, and framing subjects. By utilizing two robotic arms, two camera feeds can be integrated and combined, autonomously and dynamically deciding which feed to highlight. This project includes ideating, research, implementation, and refinement of software that combines machine learning, computer vision, and other technologies to guide camera movements. The previous two iterations of this project focused on subject tracking and a new controller for the ER-4pc. The plan for this year includes refining subject tracking and implementing predictive movements, a digital twin to use for testing and debugging, and an updated controller user interface for more intuitive design. This year’s main goal is multi-camera integration.
